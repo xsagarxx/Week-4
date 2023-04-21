@@ -1,3 +1,3 @@
-# CAD-Week-4
+# CAD-Week-4-SagarGarg
 
-This multi-threaded chat application that allows multiple users to chat with each other in real-time is a software program that enables users to communicate with each other over the internet. This type of chat application is designed to support multiple connections and enable real-time communication between multiple users simultaneously.
+This multi-threaded chat programme enables users to communicate with each other over the internet by allowing several users to speak with each other in real-time. This kind of chat programme is made to support many connections and permit simultaneous real-time communication between numerous users.
